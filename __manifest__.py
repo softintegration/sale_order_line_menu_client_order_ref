@@ -2,7 +2,7 @@
 
 {
     'name': 'Sale order line menu with client order reference',
-    'version': '1.0.1',
+    'version': '1.0.1.1',
     'author':'Soft-integration',
     'category': 'Sale',
     'description': "",
